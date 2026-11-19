@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=checkered&height=10&color=gradient&section=footer&reversal=false" width="100%" alt="header_a"/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&section=header&reversal=false&text=Irene+Riudavets&textBg=false&fontColor=36454F&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Bioinformatician+%C2%B7+Structural+Biology+%C2%B7+Genomics&descSize=20&descAlign=50&descAlignY=72" width="100%" alt="Irene Riudavets"/>
@@ -56,6 +54,4 @@ I like science best when it can be explained to anyone!!
 
 ## 🤝 Let's connect
 
-I am always up for talking and discussing. Drop me a message 📬
-
-<img src="https://capsule-render.vercel.app/api?type=checkered&height=10&color=gradient&section=footer&reversal=false" width="100%" alt="footer"/>
+I am always up for talking and discussing 📬
